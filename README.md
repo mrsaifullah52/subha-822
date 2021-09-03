@@ -2,6 +2,8 @@
 <h3 align="center">|| Graphic Designer || Full Stack Developer || Competitive Programmer || Data Entry Specialist ||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subha-822&label=Profile%20views&color=0e75b6&style=flat" alt="subha-822" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subha-822&label=Accident%20views&color=0e75b6&style=flat" alt="subha-822" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subha-822" alt="subha-822" /></a> </p>
 
